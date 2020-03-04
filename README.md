@@ -1,5 +1,7 @@
 # Crime Finder app
 
+[Link to hosted site](https://crime-finder.netlify.com/)
+
 An interactive React app that allows users to search a postcode and receive information about crimes in the given location. Third-party apis are used to obtain the crime data and it is visualised in the form of charts and a map.
 
 ## Getting started
